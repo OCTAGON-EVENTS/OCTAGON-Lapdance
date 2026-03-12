@@ -1,0 +1,8 @@
+{
+  "admin": ["PlayerName1", "PlayerName2"],
+  "eventmanager": ["PlayerName3"],
+  "staff": ["PlayerName4", "PlayerName5"],
+  "bouncer": ["PlayerName6"],
+  "vip": ["PlayerName7", "PlayerName8"],
+  "verified": ["PlayerName9", "PlayerName10"]
+}
