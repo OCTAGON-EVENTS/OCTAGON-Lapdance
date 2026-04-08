@@ -1,21 +1,26 @@
-§1 : The publication of private data such as names and addresses is strictly prohibited.
-§2 : Discussions and disputes should be resolved in private.
-§3 : The dissemination of controversial, racist, or demeaning messages is prohibited.
-§4 : The use of offensive, attacking, or inappropriate names is prohibited.
-§5 : Exploiting errors, hacks, bugs, and similar vulnerabilities is prohibited.
-§6 : Harassing the community is prohibited.
-§7 : It is inappropriate to argue with the team. Decisions are final.
-§8 : Exploiting support is prohibited.
-§9 : Advertising activities of any kind for personal purposes are prohibited.
-§10: Loud, disruptive, or intrusive noises, such as playing music through your microphone, are not permitted.
-§11: Using racist or otherwise inappropriate sounds via the soundboard is prohibited.
-§12: In case of significant background noise, the use of the push-to-talk function is required.
-§13: The creation or distribution of any form of media in any environment led by OCTAGON is prohibited unless done for evidentiary purposes and the recordings are immediately deleted thereafter.
-§14: The administration reserves the right to act within reasonable limits outside of the established rules to prevent the exploitation of gray areas.
-§15: Incitement to risky behavior is prohibited.
-§16: Political discussions or content of any kind are not allowed.
-§17: English is the primary language. Other languages may be used, provided all participants in the conversation can understand them.
-§18: Membership on this server is restricted to individuals who are 18 years of age or older.
-§19: Participation in events requires the use of a “Poor”-ranked or better-optimized avatar
-§20: Effective communication between staff and members must be maintained at all times. Blocking or muting staff members is not permitted.
-§21: Sexually explicit behavior or content is strictly prohibited.
+§  1: This community is restricted to individuals 18 years of age or older.
+§  2: English is the primary language. Other languages may be used, provided all participants can understand them.
+§  3: The publication of private data such as names and addresses is strictly prohibited.
+§  4: Discussions and disputes should be resolved in private.
+§  5: Harassing the community is prohibited.
+§  6: The dissemination of controversial, racist, or demeaning messages is prohibited.
+§  7: The use of offensive, attacking, or inappropriate names is prohibited.
+§  8: Political discussions or content of any kind are not allowed.
+§  9: Sexually explicit behavior or content is strictly prohibited.
+§ 10: Incitement to risky behavior is prohibited.
+§ 11: Loud, disruptive, or intrusive noises, such as playing music through your microphone, are not permitted.
+§ 12: Using racist or otherwise inappropriate sounds via the soundboard is prohibited.
+§ 13: In case of significant background noise, the use of the push-to-talk function is required.
+§ 14: The creation or distribution of any form of media in any environment led by OCTAGON is prohibited unless done for evidentiary purposes and deleted immediately thereafter.
+§ 15: OCTAGON media may not be monetized in any way, including paywalls or payment requests. Use is limited to private or official social platforms and must not be claimed as your own.
+§ 16: Effective communication between staff and members must be maintained at all times. Blocking or muting staff members is not permitted.
+§ 17: It is inappropriate to argue with the team. Decisions are final.
+§ 18: Exploiting support is prohibited.
+§ 19: Exploiting or utilizing errors, bugs, or unauthorized client-side modifications is strictly prohibited.
+§ 20: Advertising activities of any kind for personal purposes are prohibited.
+§ 21: The administration reserves the right to act within reasonable limits outside of the established rules to prevent the exploitation of gray areas.
+§ 22: All attendees must use optimized green avatars during the event.
+§ 23: Avatars must be reasonably sized.
+§ 24: Avatar changes are only allowed in the spawn area. Staff may change avatars in the Staff Room only.
+§ 25: If a dancer or attendee uses a block emoji or makes an "X" gesture, it signals non-consent. Respect personal boundaries immediately.
+§ 26: Physical contact with dancers is not allowed unless explicitly permitted by the dancer.
